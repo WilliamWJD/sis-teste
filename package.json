@@ -1,0 +1,10 @@
+{
+  "name": "sis-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "williamwjd <william.jose.wjd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
